@@ -1,0 +1,10 @@
+/Users/xcode/Desktop/practice/JohnsonTrotterImpl/JohnsonTrotterImpl/bin/Debug/netcoreapp2.0/JohnsonTrotterImpl.deps.json
+/Users/xcode/Desktop/practice/JohnsonTrotterImpl/JohnsonTrotterImpl/bin/Debug/netcoreapp2.0/JohnsonTrotterImpl.runtimeconfig.json
+/Users/xcode/Desktop/practice/JohnsonTrotterImpl/JohnsonTrotterImpl/bin/Debug/netcoreapp2.0/JohnsonTrotterImpl.runtimeconfig.dev.json
+/Users/xcode/Desktop/practice/JohnsonTrotterImpl/JohnsonTrotterImpl/bin/Debug/netcoreapp2.0/JohnsonTrotterImpl.dll
+/Users/xcode/Desktop/practice/JohnsonTrotterImpl/JohnsonTrotterImpl/bin/Debug/netcoreapp2.0/JohnsonTrotterImpl.pdb
+/Users/xcode/Desktop/practice/JohnsonTrotterImpl/JohnsonTrotterImpl/obj/Debug/netcoreapp2.0/JohnsonTrotterImpl.csproj.CoreCompileInputs.cache
+/Users/xcode/Desktop/practice/JohnsonTrotterImpl/JohnsonTrotterImpl/obj/Debug/netcoreapp2.0/JohnsonTrotterImpl.AssemblyInfoInputs.cache
+/Users/xcode/Desktop/practice/JohnsonTrotterImpl/JohnsonTrotterImpl/obj/Debug/netcoreapp2.0/JohnsonTrotterImpl.AssemblyInfo.cs
+/Users/xcode/Desktop/practice/JohnsonTrotterImpl/JohnsonTrotterImpl/obj/Debug/netcoreapp2.0/JohnsonTrotterImpl.dll
+/Users/xcode/Desktop/practice/JohnsonTrotterImpl/JohnsonTrotterImpl/obj/Debug/netcoreapp2.0/JohnsonTrotterImpl.pdb
